@@ -1,0 +1,7 @@
+{"level":"info","message":"Hello Acquisitions Api!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [12/Sep/2025:23:18:51 +0000] \"GET / HTTP/1.1\" 200 27 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [12/Sep/2025:23:18:51 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello Acquisitions Api!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [12/Sep/2025:23:19:45 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [12/Sep/2025:23:29:38 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 200 30 \"-\" \"PostmanRuntime/7.45.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [12/Sep/2025:23:29:55 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 30 \"-\" \"PostmanRuntime/7.45.0\"","service":"acquisitions-api"}
