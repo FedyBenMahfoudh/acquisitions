@@ -5,6 +5,8 @@ import morgan from 'morgan';
 import cors from 'cors';
 import cookieParser from 'cookie-parser';
 import authRoute from '#routes/auth.route.js';
+import securityMiddleware from '#middleware/security.middleware.js';
+
 
 const app = express();
 
@@ -18,6 +20,7 @@ app.use(
     stream: { write: message => logger.info(message.trim()) },
   })
 );
+app.use(securityMiddleware);
 
 app.get('/health', (req, res) => {
   res
@@ -40,6 +43,10 @@ app.get('/api', (req, res) => {
 });
 
 app.use('/api/auth',authRoute);
+
+app.use((req, res) => {
+  res.status(404).json({ error: 'Route not found' });
+});
 
 
 export default app;
