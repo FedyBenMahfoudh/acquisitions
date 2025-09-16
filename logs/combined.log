@@ -279,3 +279,645 @@
 {"level":"info","message":"::1 - - [14/Sep/2025:12:23:46 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [14/Sep/2025:12:24:16 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [14/Sep/2025:12:24:46 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:38:49 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:39:19 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:39:49 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:40:19 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:40:50 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:41:20 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:41:50 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:42:20 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:13:42:43 +0000] \"DELETE /api/users/:id HTTP/1.1\" 401 72 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:42:50 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User fedigameover@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User Signed in successfully : fedigameover@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:13:43:13 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 201 118 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:43:21 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: fedigameover@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user profile for user 9","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:13:43:26 +0000] \"GET /api/users/profile HTTP/1.1\" 400 89 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:43:51 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:44:21 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:44:51 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:45:22 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:45:52 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:46:22 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:46:52 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: fedigameover@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user profile for user 9","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:13:46:53 +0000] \"GET /api/users/profile HTTP/1.1\" 400 89 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:47:22 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:47:53 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:48:23 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:48:53 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: fedigameover@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user profile for user 9","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:13:49:18 +0000] \"GET /api/users/profile HTTP/1.1\" 400 89 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:49:23 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: fedigameover@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user profile for user 9","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:13:49:48 +0000] \"GET /api/users/profile HTTP/1.1\" 400 89 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:49:54 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:50:24 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:50:54 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:51:24 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:51:54 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:52:24 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:52:55 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:53:25 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:53:55 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:54:25 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:54:56 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:55:26 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:55:56 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:56:26 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: fedigameover@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user profile for user 9","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:13:56:45 +0000] \"GET /api/users/profile HTTP/1.1\" 400 89 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:56:57 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:57:27 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: fedigameover@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user profile for user 9","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:13:57:50 +0000] \"GET /api/users/profile HTTP/1.1\" 400 89 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:57:57 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:13:58:16 +0000] \"GET /api/users/profile HTTP/1.1\" 401 72 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:58:28 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User fedigameover@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User Signed in successfully : fedigameover@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:13:58:32 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 201 118 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:58:58 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: fedigameover@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user profile for user 9","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:13:59:04 +0000] \"GET /api/users/profile HTTP/1.1\" 400 89 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: fedigameover@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user profile for user 9","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:13:59:16 +0000] \"GET /api/users/profile HTTP/1.1\" 400 89 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:59:28 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:13:59:58 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: fedigameover@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user profile for user 9","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:14:00:17 +0000] \"GET /api/users/profile HTTP/1.1\" 400 89 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:00:29 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:00:59 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:01:29 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:02:00 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:02:31 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:03:01 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:03:31 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:04:01 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:04:31 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:05:01 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:05:32 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:06:02 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:06:28 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"error","message":"Authentication error: object is not iterable (cannot read property Symbol(Symbol.iterator))","service":"acquisitions-api","stack":"TypeError: object is not iterable (cannot read property Symbol(Symbol.iterator))\n    at authenticateToken (file:///app/src/middleware/auth.middleware.js:20:28)\n    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)\n    at next (/app/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/app/node_modules/router/lib/route.js:117:3)\n    at handle (/app/node_modules/router/index.js:435:11)\n    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)\n    at /app/node_modules/router/index.js:295:15\n    at processParams (/app/node_modules/router/index.js:582:12)\n    at next (/app/node_modules/router/index.js:291:5)\n    at Function.handle (/app/node_modules/router/index.js:186:3)"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:14:06:43 +0000] \"GET /api/users/profile HTTP/1.1\" 500 73 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:06:58 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User fedigameover@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User Signed in successfully : fedigameover@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:14:06:59 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 201 118 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"error","message":"Authentication error: object is not iterable (cannot read property Symbol(Symbol.iterator))","service":"acquisitions-api","stack":"TypeError: object is not iterable (cannot read property Symbol(Symbol.iterator))\n    at authenticateToken (file:///app/src/middleware/auth.middleware.js:20:28)\n    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)\n    at next (/app/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/app/node_modules/router/lib/route.js:117:3)\n    at handle (/app/node_modules/router/index.js:435:11)\n    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)\n    at /app/node_modules/router/index.js:295:15\n    at processParams (/app/node_modules/router/index.js:582:12)\n    at next (/app/node_modules/router/index.js:291:5)\n    at Function.handle (/app/node_modules/router/index.js:186:3)"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:14:07:09 +0000] \"GET /api/users/profile HTTP/1.1\" 500 73 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:07:28 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:07:58 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:08:29 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:08:59 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:09:29 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:09:39 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:10:09 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: fedigameover@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user profile for user 9 number","service":"acquisitions-api"}
+{"level":"info","message":"User fedigameover@gmail.com retrieved successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:14:10:22 +0000] \"GET /api/users/profile HTTP/1.1\" 200 198 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:10:39 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:11:10 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:11:40 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:12:10 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: fedigameover@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Updating user profile: 9","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:14:12:11 +0000] \"PUT /api/users/profile HTTP/1.1\" 400 89 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:12:40 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:13:11 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:13:41 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: fedigameover@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Updating user profile: 9","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:14:13:42 +0000] \"PUT /api/users/profile HTTP/1.1\" 400 89 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:14:11 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:15:02 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: fedigameover@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Updating user profile: 9","service":"acquisitions-api"}
+{"level":"info","message":"User fedigameover@gmail.com updated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User fedigameover@gmail.com updated successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:14:15:25 +0000] \"PUT /api/users/profile HTTP/1.1\" 200 200 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:15:32 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: fedigameover@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Deleting user profile: 9","service":"acquisitions-api"}
+{"level":"info","message":"User fedigameover@gmail.com deleted successfully","service":"acquisitions-api"}
+{"level":"info","message":"User fedigameover@gmail.com deleted successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:14:15:39 +0000] \"DELETE /api/users/profile HTTP/1.1\" 200 120 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"error","message":"Authentication error: Failed to authenticate token","service":"acquisitions-api","stack":"Error: Failed to authenticate token\n    at authenticateToken (file:///app/src/middleware/auth.middleware.js:27:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:14:15:51 +0000] \"GET /api/users/profile HTTP/1.1\" 401 70 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:16:02 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:16:32 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:17:02 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:17:32 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"error","message":"Authentication error: Failed to authenticate token","service":"acquisitions-api","stack":"Error: Failed to authenticate token\n    at authenticateToken (file:///app/src/middleware/auth.middleware.js:27:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:14:17:59 +0000] \"GET /api/users/8 HTTP/1.1\" 401 70 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:18:03 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User signed out successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:14:18:20 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:18:33 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"Successfully created user admin@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"User registered successfully : admin@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:14:18:41 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 126 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/8","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:14:18:53 +0000] \"GET /api/users/8 HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:19:03 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"-\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:19:33 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:20:03 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:20:34 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:21:04 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:21:34 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:22:05 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:22:35 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:23:05 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:23:35 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:24:05 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:24:36 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:25:06 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:25:36 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:26:06 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:26:36 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:27:07 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:27:37 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:28:07 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:28:37 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:29:08 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:29:38 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:30:08 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:30:39 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:31:09 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:31:39 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:32:10 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:32:40 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:33:10 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:33:41 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:34:11 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:34:41 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:35:11 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:35:41 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:36:12 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:36:42 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:37:12 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:37:42 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:38:12 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:38:42 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:39:13 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:39:43 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:40:13 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:40:43 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:41:13 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:41:43 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:42:14 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:42:44 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:43:14 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:43:45 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:44:15 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:44:45 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:45:15 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:45:45 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:46:16 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:46:46 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:47:16 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:47:46 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:48:16 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:48:46 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:49:17 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:49:47 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:50:17 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:50:48 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:51:18 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:51:48 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:52:18 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:52:49 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:53:19 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:53:49 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:54:19 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:54:49 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:55:19 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:55:50 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:56:20 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:56:50 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:57:20 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:57:51 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:58:21 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:14:58:51 +0000] \"GET /api/users/8 HTTP/1.1\" 401 72 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:58:51 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User admin@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User Signed in successfully : admin@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:14:59:15 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 201 114 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: admin@gmail.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user by id: 8","service":"acquisitions-api"}
+{"level":"info","message":"User fedi.bn.mahfoudh@gmail.com retrieved successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:14:59:21 +0000] \"GET /api/users/8 HTTP/1.1\" 200 203 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:59:21 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: admin@gmail.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [14/Sep/2025:14:59:30 +0000] \"GET /api/users HTTP/1.1\" 200 363 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:14:59:51 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:15:00:22 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:15:00:52 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [14/Sep/2025:15:01:22 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Sep/2025:11:06:48 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:06:58 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:06:59 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"User signed out successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:07:00 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:07:00 +0000] \"PUT /api/users/profile HTTP/1.1\" 401 72 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:07:00 +0000] \"PUT /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:07:01 +0000] \"DELETE /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:07:01 +0000] \"DELETE /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:07:01 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:07:01 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:07:01 +0000] \"GET /api/users HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:07:01 +0000] \"GET / HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Sep/2025:11:07:18 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"-\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Sep/2025:11:07:48 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Sep/2025:11:08:18 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Sep/2025:11:08:48 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Sep/2025:11:09:18 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Sep/2025:11:09:48 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Sep/2025:11:10:18 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Sep/2025:11:10:49 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:10 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:10 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:10 +0000] \"PUT /api/users/profile HTTP/1.1\" 401 72 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:11 +0000] \"PUT /api/users/:id HTTP/1.1\" 401 72 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:11 +0000] \"DELETE /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:11 +0000] \"DELETE /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:11 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:11 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:11 +0000] \"GET /api/users HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:11 +0000] \"GET / HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-up","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:12 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:13 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:13 +0000] \"PUT /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:13 +0000] \"PUT /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:13 +0000] \"DELETE /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:13 +0000] \"DELETE /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:13 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:13 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:13 +0000] \"GET /api/users HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:14 +0000] \"GET / HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-up","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:15 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:15 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:15 +0000] \"PUT /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:15 +0000] \"PUT /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:15 +0000] \"DELETE /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:15 +0000] \"DELETE /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:16 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:16 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:16 +0000] \"GET /api/users HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:16 +0000] \"GET / HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-up","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:17 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:18 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:18 +0000] \"PUT /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:18 +0000] \"PUT /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:18 +0000] \"DELETE /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:18 +0000] \"DELETE /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:18 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:18 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:18 +0000] \"GET /api/users HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:18 +0000] \"GET / HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Sep/2025:11:11:19 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"-\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-up","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:20 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:20 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:20 +0000] \"PUT /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:20 +0000] \"PUT /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:20 +0000] \"DELETE /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:20 +0000] \"DELETE /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:20 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:20 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:20 +0000] \"GET /api/users HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:21 +0000] \"GET / HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-up","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:22 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:22 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:22 +0000] \"PUT /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:22 +0000] \"PUT /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:22 +0000] \"DELETE /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:22 +0000] \"DELETE /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:23 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:23 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:23 +0000] \"GET /api/users HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:23 +0000] \"GET / HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-up","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:24 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:24 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:24 +0000] \"PUT /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:24 +0000] \"PUT /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:24 +0000] \"DELETE /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:24 +0000] \"DELETE /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:24 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:24 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:25 +0000] \"GET /api/users HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:25 +0000] \"GET / HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-up","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:26 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:26 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:26 +0000] \"PUT /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:26 +0000] \"PUT /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:26 +0000] \"DELETE /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:27 +0000] \"DELETE /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:27 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:27 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:27 +0000] \"GET /api/users HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:27 +0000] \"GET / HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-up","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:28 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:28 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:28 +0000] \"PUT /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:28 +0000] \"PUT /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:28 +0000] \"DELETE /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:29 +0000] \"DELETE /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:29 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:29 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:29 +0000] \"GET /api/users HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:29 +0000] \"GET / HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-up","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:30 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:30 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:30 +0000] \"PUT /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:30 +0000] \"PUT /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:31 +0000] \"DELETE /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:31 +0000] \"DELETE /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:31 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:31 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:31 +0000] \"GET /api/users HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:31 +0000] \"GET / HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-up","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:32 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:32 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:33 +0000] \"PUT /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:33 +0000] \"PUT /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:33 +0000] \"DELETE /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:33 +0000] \"DELETE /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:33 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:33 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:33 +0000] \"GET /api/users HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:33 +0000] \"GET / HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-up","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:35 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:35 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:35 +0000] \"PUT /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:35 +0000] \"PUT /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:35 +0000] \"DELETE /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:35 +0000] \"DELETE /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:36 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:36 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:36 +0000] \"GET /api/users HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:36 +0000] \"GET / HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-up","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:37 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:37 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:37 +0000] \"PUT /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:37 +0000] \"PUT /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:38 +0000] \"DELETE /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:38 +0000] \"DELETE /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:38 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:38 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:38 +0000] \"GET /api/users HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:38 +0000] \"GET / HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-up","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:40 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:40 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:40 +0000] \"PUT /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:40 +0000] \"PUT /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:40 +0000] \"DELETE /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:40 +0000] \"DELETE /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:41 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:41 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:41 +0000] \"GET /api/users HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:41 +0000] \"GET / HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-up","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:42 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:42 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:42 +0000] \"PUT /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:42 +0000] \"PUT /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:42 +0000] \"DELETE /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:42 +0000] \"DELETE /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:42 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:43 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:43 +0000] \"GET /api/users HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:43 +0000] \"GET / HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-up","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:44 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:44 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:44 +0000] \"PUT /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:44 +0000] \"PUT /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:44 +0000] \"DELETE /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:44 +0000] \"DELETE /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:44 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:45 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:45 +0000] \"GET /api/users HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:45 +0000] \"GET / HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-up","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:46 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:46 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:46 +0000] \"PUT /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:47 +0000] \"PUT /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:47 +0000] \"DELETE /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:47 +0000] \"DELETE /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:47 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:47 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:47 +0000] \"GET /api/users HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:47 +0000] \"GET / HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-up","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:48 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:48 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:49 +0000] \"PUT /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:49 +0000] \"PUT /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:49 +0000] \"DELETE /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Sep/2025:11:11:49 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"-\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/:id","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:49 +0000] \"DELETE /api/users/:id HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:49 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users/profile","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:49 +0000] \"GET /api/users/profile HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/api/users","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:49 +0000] \"GET /api/users HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.19.0.1","level":"warn","message":"Rate limit exceeded","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [16/Sep/2025:11:11:49 +0000] \"GET / HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.46.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Sep/2025:11:12:19 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
